@@ -1,0 +1,15 @@
+To run this successfully
+- we replaced the pip folder with the latest version of pip so as to install all the required dependencies
+after running the command of `firebase init functions` so we did that to fix initia errors
+- later on the IDE cudn't recognize the imported packages in the `main.py` file and to fix this error,
+we has to run `E:\Cephas Python\cloud_functions_test\functions` in administrator mode terminal, so now all is set so far
+
+Learn more about Python functions
+https://www.w3schools.com/python/python_functions.asp
+
+Learn more about Python Lambda Functions
+https://www.w3schools.com/python/python_lambda.asp
+
+Python Datatypes
+https://www.w3schools.com/python/python_datatypes.asp
+
